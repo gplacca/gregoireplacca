@@ -54,14 +54,10 @@
   justify-content: center;
 }
 
-
-a {
-  text-decoration: none;
-}
-
-h1, h2, h3, h4 {
+h1, h2, h3, h4, a {
   font-family: 'Montserrat', sans-serif;
   color: #D7D6D8;
+  text-decoration: none;
 }
 
 h2 {
